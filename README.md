@@ -1,5 +1,6 @@
 # Django Web Monetization
 
+[![PyPI version](https://badge.fury.io/py/django-webmonetization-MartinM10.svg)](https://badge.fury.io/py/django-webmonetization-MartinM10)
 [![Python Versions](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![Django Versions](https://img.shields.io/badge/django-3.2%2B-blue.svg)](https://docs.djangoproject.com/es/5.1/releases/3.2/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
