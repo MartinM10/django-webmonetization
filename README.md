@@ -24,7 +24,7 @@ A Django package that makes it easy to integrate the [Web Monetization](https://
 ## Installation
 
 ```bash
-pip install django-webmonetization
+pip install django-webmonetization-MartinM10
 ```
 
 ## Configuration
